@@ -9,6 +9,14 @@ The dashboard debuted in [Month Year] to visualize [key metric(s): e.g., sales t
 - **Visual tools**: Built with [Power BI/Tableau/Plotly Dash], leveraging parameterized filters, drill-down, and conditional formatting.
 
 **Critical Reflection**: While filter interactivity enhances flexibility, an excess resulted in initial cognitive overload. I later prioritized 2–3 key selectors to guide typical workflows.
+## 📺 Featured Project: Dynamic Financial Dashboard
+
+🎥 **Watch the full video demo below** (make sure to download or preview via GitHub interface):
+
+📁 [`dynamic dashboard.mp4`](./dynamic%20dashboard.mp4)
+
+> 💡 *Tip: View in full screen to appreciate the slicer interactivity, year-over-year growth metrics, and executive summary cards.*
+
 
 ### 3. **Visual Design Principles**
 - Employed familiar chart types: time-series line graphs, bar charts, KPIs with color-coded thresholds.
